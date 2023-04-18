@@ -2,7 +2,7 @@
 
 ## Main features of the project
 - Desktop application for sharpening images
-- The graphical user interface allows for selecting an image, sharpening level and choosing the number of threads and the type of library that will be loaded for image processing
+- The graphical user interface allows for selecting an image, desirable sharpening level and choosing the number of threads and the type of library that will be loaded for image processing
 - Creating Dynamic Linked Libraries written in C and ASM implementing filtering algorithm
 - The assembly DLL uses AVX512 vector instructions
 - The program contains an algorithm for measuring execution time of the libraries
